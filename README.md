@@ -1,9 +1,7 @@
 
 
 
-###### Hello Coders ,my name is Pawan
-
-
+## Hello Coders ,my name is Pawan 
 ## 🌱 I’m currently learning ...
 
 <!--A cool way to display github stats is here.Just add the this API and insert github profile name in place of PanwarAyush-->
