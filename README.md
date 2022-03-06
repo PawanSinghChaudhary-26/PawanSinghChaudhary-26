@@ -17,6 +17,10 @@
 
 </p>
 
+</p>
+ <img align="center"  width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=radical" alt="Pawan Singh Chaudhary "/>
+ <p align="center"> 
+
 
 <!--
 **PawanSinghChaudhary-26/PawanSinghChaudhary-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
