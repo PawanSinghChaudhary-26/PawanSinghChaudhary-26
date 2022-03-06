@@ -5,6 +5,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
 
 <h1>Technical Skills 🛠</h1>
+
+<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" >
+<br>
+![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
 <p align="center"> 
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
