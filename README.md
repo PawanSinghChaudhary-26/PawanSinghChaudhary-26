@@ -1,12 +1,16 @@
-#### Hello Coders ,my name is Pawan
+
+
+
+###### Hello Coders ,my name is Pawan
 
 
 ## 🌱 I’m currently learning ...
 
 <!--A cool way to display github stats is here.Just add the this API and insert github profile name in place of PanwarAyush-->
  <details>
-<summary>📊 Stats</summary>
+<summary>📊 #Github Stats</summary>
 
+ ###### Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
 </details>
 <!--
