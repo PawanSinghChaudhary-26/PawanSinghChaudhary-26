@@ -28,9 +28,13 @@
 ## Quick Overview 📝
 
 ## Github Stats...
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
- </p align="center">
-  <img align="center"  width="45%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/langs/?username=PawanSinghChaudhary-26 & langs_count=10 & theme=dracula" alt="Pawan Singh Chaudhary"/>
+
+
+</p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
+ 
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
+ 
  <p align="center"> 
  
 
