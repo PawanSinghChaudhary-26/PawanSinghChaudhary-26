@@ -18,8 +18,8 @@
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-##
 
+##
 
 
 </p>
@@ -29,10 +29,8 @@
 
 ## Github Stats...
 
-
-</p>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
- 
+
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
  
  <p align="center"> 
