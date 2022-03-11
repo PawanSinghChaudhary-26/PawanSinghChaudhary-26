@@ -1,8 +1,7 @@
 ## Hello <!Coders><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,my name is Pawan 
 ### 🌱 I’m currently in learning phase...
 
-## Github Stats...
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
+
 
 <h1>Technical Skills 🛠</h1>
 
@@ -18,12 +17,21 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+##
+
+
 
 </p>
+<!--Github Progess bar-->
 
-</p>
+## Quick Overview 📝
+
+## Github Stats...
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan Singh Chaudhary | Stats" />
  <p align="center">
- </p img align="center"  width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=radical" alt="Pawan Singh Chaudhary ">
+  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=radical" alt="Pawan Singh Chaudhary"/>
+ <p align="center"> 
  
 
 
