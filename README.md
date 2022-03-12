@@ -23,9 +23,10 @@
 <p>
 
 ## Quick Overview 📝
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan's GitHub | Stats" />
+<p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan's GitHub Stats" />
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula&top_langs=8" alt="Pawan Singh Chaudhary" />
-  </p>
+</p>
 
 
 <!--
