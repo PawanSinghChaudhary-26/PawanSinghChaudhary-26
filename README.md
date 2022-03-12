@@ -35,9 +35,7 @@
 </p>
 
 ![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26" alt="https://github.com/PawanSinghChaudhary-26" />
-</p>
+
 
 <!--Github Progess bar-->
 ## Quick Overview 📝
