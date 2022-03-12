@@ -2,10 +2,11 @@
 ### 🌱 I’m currently in learning phase...
 
 
- <img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" > 
-
 ##
 <h1>Technical Skills 🛠</h1>
+
+##
+<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" > 
 
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
