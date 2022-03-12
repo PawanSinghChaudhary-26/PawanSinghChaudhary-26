@@ -33,10 +33,10 @@
     <img alt="MICROSOFT EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img alt="MICROSOFT SHAREPOINT" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </p>
-
-![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
-<img align="center"&src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26" alt="https://github.com/PawanSinghChaudhary-26" />
-
+<p align="center">
+    ![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
+    <img src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26" alt="https://github.com/PawanSinghChaudhary-26" />
+</p>
 <!--Github Progess bar-->
 ## Quick Overview 📝
 
