@@ -2,9 +2,8 @@
 ### 🌱 I’m currently in learning phase...
 
 
-##
+<!--Technical Skills-->
 <h1>Technical Skills 🛠</h1>
-<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" > 
 
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -16,18 +15,14 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-
 <!--Github Progess bar-->
-</P> 
-
 ## Quick Overview 📝
 
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=radical" alt="Pawan's github stats" />
+<p align="center"> 
+    <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=radical" alt="Pawan's github stats" />
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSinghChaudhary-26&theme=dracula" alt="Pawan Singh Chaudhary"/>
+    <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" />
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSinghChaudhary-26&theme=dracula" alt="Pawan Singh Chaudhary"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" />
- <p align="center">
-<p>
 
 
 <!--
