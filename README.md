@@ -19,7 +19,7 @@
 
 
 <!--Github Progess bar-->
-## Quick Overview 📝
+### Quick Overview 📝
 
 </p>
     <img align="left" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=dracula" alt="Pawan's github stats" />
