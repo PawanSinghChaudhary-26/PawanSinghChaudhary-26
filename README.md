@@ -21,13 +21,12 @@
 <!--Github Progess bar-->
 ## Quick Overview 📝
 
-
-
+<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 </p>
-    <img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary">
-    <img width="52%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=dracula" alt="Pawan's github stats" />
-    
-<p align="center">
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
+ 
+ <p align="center">
 
 
 <!--
