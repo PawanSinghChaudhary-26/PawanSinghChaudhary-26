@@ -4,8 +4,6 @@
 
 ##
 <h1>Technical Skills 🛠</h1>
-
-##
 <img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" > 
 
 <p align="center">
