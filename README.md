@@ -22,11 +22,10 @@
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
-<p align="center">
-    <img align="left" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=dracula" alt="Pawan's github stats" />
+
+<img align="left" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=dracula" alt="Pawan's github stats" />
     <br><br><br>
-    <img align="left" width="40%" height="80%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" />
-</P>  
+<img align="left" width="40%" height="80%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" /> 
 
 
 
