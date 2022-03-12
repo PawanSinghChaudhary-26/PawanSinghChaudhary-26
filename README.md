@@ -20,12 +20,12 @@
 
 
 <!--Github Progess bar-->
+
 ## Quick Overview 📝
 
 <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=radical" alt="Pawan's github stats" />
 </p>
-
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=radical" alt="hackcoderr" />
+ <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=radical" alt="Pawan Singh Chaudhary" />
  
  <p align="center"> 
 
