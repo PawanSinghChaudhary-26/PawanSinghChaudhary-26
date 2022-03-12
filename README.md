@@ -4,6 +4,7 @@
 
  <img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" > 
 
+##
 <h1>Technical Skills 🛠</h1>
 
 <p align="center">
@@ -18,13 +19,11 @@
 
 ##
 <!--Github Progess bar-->
-
 ## Quick Overview 📝
 
-<img align="left" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=dracula" alt="Pawan's github stats" />
 </p>
+    <img align="left" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=dracula" alt="Pawan's github stats" />
     <img width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" /> 
-
 <p align="center">
 
 
