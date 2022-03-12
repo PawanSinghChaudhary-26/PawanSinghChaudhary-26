@@ -34,7 +34,7 @@
     <img alt="MICROSOFT SHAREPOINT" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </p>
 
-    ![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
+![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26" alt="https://github.com/PawanSinghChaudhary-26" />
 </p>
