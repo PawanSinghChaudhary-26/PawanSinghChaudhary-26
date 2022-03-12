@@ -15,6 +15,8 @@
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+![Pawan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PawanSinghChaudhary-26&theme=dracula)
+
 <!--Github Progess bar-->
 ## Quick Overview 📝
 
@@ -25,6 +27,7 @@
     <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" />
     </p>
 </p>
+
 
 
 <!--
