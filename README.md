@@ -1,4 +1,4 @@
-## Hello <!Coders><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,my name is Pawan 
+## Hello <!Coders><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">,my name is Pawan 
 ### 🌱 I’m currently in learning phase...
 
 
@@ -6,7 +6,6 @@
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
-
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,24 +16,16 @@
 
 </p>
 <img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" >
-<br>
-
-##
-
-
 </p>
+<br>
 <!--Github Progess bar-->
 
 <p>
 
 ## Quick Overview 📝
-### Github Stats
-
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&theme=gotham" alt="Pawan's GitHub | Stats" />
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula&top_langs=8" alt="Pawan Singh Chaudhary" />
- 
- <p align="center"> 
- </p>
+  </p>
 
 
 <!--
