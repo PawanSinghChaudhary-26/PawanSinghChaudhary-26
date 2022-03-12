@@ -18,15 +18,15 @@
 
 
 <!--Github Progess bar-->
-## 
-## Quick Overview 📝
+</P> 
+    ## Quick Overview 📝
 
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
-</p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
- 
- <p align="center">
+    <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+    </p>
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
+    <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
+    <p align="center">
+ <p>
 
 
 <!--
