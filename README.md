@@ -21,7 +21,8 @@
 <p align="center"> 
     <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PawanSinghChaudhary-26&show_icons=true&include_all_commits=true&theme=radical" alt="Pawan's github stats" />
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSinghChaudhary-26&theme=dracula" alt="Pawan Singh Chaudhary" />
-    <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" />
+    <br>
+    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" />
 </p>
 
 
