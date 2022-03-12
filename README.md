@@ -19,7 +19,7 @@
 
 
 <!--Github Progess bar-->
-### Quick Overview 📝
+# Quick Overview 📝
 
 </p>
     <img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PawanSinghChaudhary-26&layout=compact&theme=dracula" alt="Pawan Singh Chaudhary" /> 
