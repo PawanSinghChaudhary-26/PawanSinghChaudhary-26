@@ -1,14 +1,10 @@
 <!--
 **PawanSinghChaudhary-26/PawanSinghChaudhary-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">,I'm Pawan 
-<h2 align="center">A passionate 
-Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan Singh Chaudhary" /> </p>
-
+# Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Pawan 
+<h2 align="center">Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
 <h3>🌱 I’m currently in learning phase...</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan Singh Chaudhary" /> </p>
 
 <!--Technical Skills-->
 <h1>Technical Skills 🛠</h1>
