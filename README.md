@@ -3,7 +3,7 @@
 
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Pawan 
 <h2 align="center">Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
-<img align="right" alt="Skills" width="400" src="C:\Users\hp\Desktop\GitHub\skills.gif">
+<img align="center" alt="Skills" width="800" src="https://github.com/PawanSinghChaudhary-26/PawanSinghChaudhary-26/blob/main/assets/skills.gif">
 <h3>In learning phase...</h3>
 
 - 🌱 I’m currently learning **DevOps**
