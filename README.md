@@ -4,7 +4,7 @@
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Pawan 
 <h2 align="center">Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
 <div>
-<img align="center" alt="Skills" width="30px" src="https://github.com/PawanSinghChaudhary-26/PawanSinghChaudhary-26/blob/main/assets/skills.gif">
+<img align="center" alt="Skills" width="30%" src="https://github.com/PawanSinghChaudhary-26/PawanSinghChaudhary-26/blob/main/assets/skills.gif">
 </div>
   
   <p>&nbsp;</p>
