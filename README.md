@@ -4,8 +4,23 @@
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Pawan 
 <h2 align="center">Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
 <h3>🌱 I’m currently in learning phase...</h3>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=PawanSinghChaudhary-26&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan Singh Chaudhary" /> </p>
+- 🌱 I’m currently learning **DevOps**
+
+<!-- 👨‍💻 All of my projects are available at [abc](abc)-->
+
+- 📫 How to reach me **pawansingh1894509@gmail.com**
+
+<!-- 📄 Know about my experiences [abc](abc)-->
+
+- ⚡ Fun fact **I think Chai is better than Tea & Coffee,don't you.**
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pawan-singh-chaudhary-9954a71a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pawansingh1894509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pawan_singh_chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pawansingh1894509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abc" height="30" width="40" /></a>
+</p>
 
 <!--Technical Skills-->
 <h1>Technical Skills 🛠</h1>
