@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/pawan-singh-chaudhary-9954a71a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pawansingh1894509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pawan_singh_chaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abc" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pawansingh1894509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abc" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pawansingh1894509" target="blank"><img align="center" color="white" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abc" height="30" width="40" /></a>
 </p>
 
 <!--Technical Skills-->
