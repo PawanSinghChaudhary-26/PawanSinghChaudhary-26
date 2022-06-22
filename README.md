@@ -1,7 +1,7 @@
 <!--
 **PawanSinghChaudhary-26/PawanSinghChaudhary-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-#Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Pawan 
+# Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">I'm Pawan 
 <h2 align="center">Tech learner| |Developer(2D/3D Game + Web front-end)| |DevOps practitioner</h2>
 <div>
 <img align="center" alt="Skills" width="100%" src="https://github.com/PawanSinghChaudhary-26/PawanSinghChaudhary-26/blob/main/assets/skills.gif">
