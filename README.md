@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello Amigos, my name is Pawan👋
 
 <!--
 **PawanSinghChaudhary-26/PawanSinghChaudhary-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![github-main](https://github.com/PawanSinghChaudhary-26/PawanSinghChaudhary-26/assets/78315715/eaaeb7e9-2131-4391-8afe-b302129b8302)
+
